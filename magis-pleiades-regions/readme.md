@@ -8,4 +8,6 @@ with attribution (Copyright AWMC & Foss, CC-BY).
 With support from the [Pelagios project](http://pelagios-project.blogspot.co.uk), [Stuart Eve](http://www.dead-mens-eyes.org/) 
 has added Pleiades identifiers and converted the geometries to GeoJSON format.
 
+__TODO:__ create a plain GeoJSON dump
+
 
