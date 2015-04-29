@@ -10,6 +10,6 @@ has added [Pleiades](http://pleiades.stoa.org) identifiers in 2015 and converted
 according to the [Pelagios Gazetteer Interconnection Format](https://github.com/pelagios/pelagios-cookbook/wiki/Pelagios-Gazetteer-Interconnection-Format),
 and intended to be used as a "patch file", i.e. to amend an full [Pleiades data dump](http://pleiades.stoa.org/downloads).
 
-__TODO:__ Create a dump in plain GeoJSON format
+__TODO:__ create a dump in plain GeoJSON format
 
 
