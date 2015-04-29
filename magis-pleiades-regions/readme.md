@@ -6,9 +6,8 @@ These polygon geometries were digitized from Barrington Atlas rasters (georegist
 with attribution (Copyright AWMC & Foss, CC-BY).
 
 With support from the [Pelagios project](http://pelagios-project.blogspot.co.uk), [Stuart Eve](http://www.dead-mens-eyes.org/) 
-has added [Pleiades](http://pleiades.stoa.org) identifiers and converted the geometries to GeoJSON format.
-
-The data is formatted according to the [Pelagios Gazetteer Interconnection Format](https://github.com/pelagios/pelagios-cookbook/wiki/Pelagios-Gazetteer-Interconnection-Format),
+has added [Pleiades](http://pleiades.stoa.org) identifiers and converted the geometries to GeoJSON. The data is formatted 
+according to the [Pelagios Gazetteer Interconnection Format](https://github.com/pelagios/pelagios-cookbook/wiki/Pelagios-Gazetteer-Interconnection-Format),
 and intended to be used as a "patch file", i.e. to amend an full [Pleiades data dump](http://pleiades.stoa.org/downloads).
 
 __TODO:__ Create a dump in plain GeoJSON format
