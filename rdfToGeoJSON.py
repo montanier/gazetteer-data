@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 # Copyright (c) 2015
+# Jean-Marc Montanier
 # COMPUTER APPLICATIONS IN SCIENCE & ENGINEERING
 # BARCELONA SUPERCOMPUTING CENTRE - CENTRO NACIONAL DE SUPERCOMPUTACION
 # http://www.bsc.es
